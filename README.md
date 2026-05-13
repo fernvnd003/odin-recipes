@@ -1,1 +1,1 @@
-# odin-recipes
+This will be a website about recipes. Up until now I will demonstrate everything I've learned on the Odin Projecet website. That will mainly be the basics of Git, using the command line, creating a repository and cloning it to my local machine. Creating a website only with the basics of HTML, which include using elements, tags, attributes, creating a boilerplate, linking images and other links, relative and absolute. 
